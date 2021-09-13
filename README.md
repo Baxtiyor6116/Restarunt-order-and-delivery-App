@@ -19,7 +19,7 @@ This is my exam Application. In this Application I try to simulate real applicat
 
 Relaese apk: ---> <h1>https://github.com/Baxtiyor6116/Restarunt-order-and-delivery-App/blob/main/app-armeabi-v7a-release.apk</h3>
 
-
+<a href="https://ibb.co/LxqpGsx"><img src="https://i.ibb.co/3p8hJPp/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0" width="414" height="896" ></a>
 
 
 <a href="https://ibb.co/cJKTH8J"><img src="https://i.ibb.co/qBL1fgB/Screenshot-1631538046.png" alt="Screenshot-1631538046" border="0" width="414" height="896" ></a>
