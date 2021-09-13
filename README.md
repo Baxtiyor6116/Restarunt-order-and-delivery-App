@@ -22,15 +22,15 @@ This is my exam Application. In this Application I try to simulate real applicat
 Used Packages: <h1> pubspec.yaml </h1>
 <hr>
 <h3> Used Packages </h3>
- cupertino_icons: ^1.0.2
-  google_fonts: ^2.1.0
-  firebase_core: ^1.6.0
-  firebase_auth: ^3.1.1
-  firebase_storage: ^10.0.3
-  cloud_firestore: ^2.5.2
-  flutter_zoom_drawer: any
-  flutter_staggered_grid_view: ^0.3.3
-  flutter_slidable: ^0.6.0
+ cupertino_icons: ^1.0.2 <br>
+  google_fonts: ^2.1.0 <br>
+  firebase_core: ^1.6.0 <br>
+  firebase_auth: ^3.1.1 <br>
+  firebase_storage: ^10.0.3 <br>
+  cloud_firestore: ^2.5.2 <br>
+  flutter_zoom_drawer: any <br>
+  flutter_staggered_grid_view: ^0.3.3 <br>
+  flutter_slidable: ^0.6.0 <br>
   
 <a href="https://ibb.co/LxqpGsx"><img src="https://i.ibb.co/3p8hJPp/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0" width="414" height="896" ></a>
 
