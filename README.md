@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 This is my exam Application. In this Application I try to simulate real application orders by restaraunt and delivery to the door. 
 
-Relaese apk: ---> 
+Relaese apk: ---> <h1>https://github.com/Baxtiyor6116/Restarunt-order-and-delivery-App/blob/main/app-armeabi-v7a-release.apk</h3>
 
 
 
