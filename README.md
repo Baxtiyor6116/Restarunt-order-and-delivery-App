@@ -20,8 +20,18 @@ This is my exam Application. In this Application I try to simulate real applicat
 [<h2>Download relase apk:</h2>](https://github.com/Baxtiyor6116/Restarunt-order-and-delivery-App/blob/main/app-armeabi-v7a-release.apk)
 
 Used Packages: <h1> pubspec.yaml </h1>
-<a href="https://ibb.co/WpqMsWv"><img src="https://i.ibb.co/DgsvLDf/Pubspecyaml.jpg" alt="Pubspecyaml" border="0" width="300" height="400 "></a>
-
+<hr>
+<h3> Used Packages </h3>
+ cupertino_icons: ^1.0.2
+  google_fonts: ^2.1.0
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.1
+  firebase_storage: ^10.0.3
+  cloud_firestore: ^2.5.2
+  flutter_zoom_drawer: any
+  flutter_staggered_grid_view: ^0.3.3
+  flutter_slidable: ^0.6.0
+  
 <a href="https://ibb.co/LxqpGsx"><img src="https://i.ibb.co/3p8hJPp/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0" width="414" height="896" ></a>
 
 
