@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "683016282131",
+    "project_id": "exam-restaraunt",
+    "storage_bucket": "exam-restaraunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683016282131:android:489bcac2925ec35518dfe6",
+        "android_client_info": {
+          "package_name": "com.example.restarauntexamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683016282131-g3uo14v7o33gq6g5p7r75f26cale69v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restarauntexamapp",
+            "certificate_hash": "648b280df3710899c5933a5ae232557dafee853a"
+          }
+        },
+        {
+          "client_id": "683016282131-mlgd7jjv8navppd111rakj9rki26ckf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2obtQd87uxMEXE_7cgAX4ktV0AKdBzDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683016282131-mlgd7jjv8navppd111rakj9rki26ckf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
